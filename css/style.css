@@ -158,6 +158,7 @@ main li {
   font-size: 0.875rem;
 }
 main .text {
+  padding-top: 8px;
   padding-bottom: 24px;
 }
 
